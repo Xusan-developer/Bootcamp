@@ -1,6 +1,6 @@
 namespace bootcamp.Solutions
 {
-    public class Lab1
+    public class Lab2
     {
         public void Problem1()
         {
