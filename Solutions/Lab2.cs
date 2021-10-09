@@ -70,7 +70,7 @@ namespace bootcamp.Solutions
             string b = date.ToString().PadLeft(2,'0');
             System.Console.WriteLine("Birthdate is "+ a + "-" + b);
         }
-        public void Problem3_1()
+        public void Problem3()
         {
             System.Console.WriteLine("Birthdate");
 

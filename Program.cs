@@ -6,6 +6,31 @@ namespace bootcamp
     {
         static void Main()
         {
+            var Lab3 = new Lab3();
+            Lab3.Problem3_5();
+        }
+        static void Main3_4()
+        {
+            var Lab3 = new Lab3();
+            Lab3.Problem3_4();
+        }
+        static void Main3_3()
+        {
+            var Lab3 = new Lab3();
+            Lab3.Problem3_3();
+        }
+        static void Main3_2()
+        {
+            var Lab3 = new Lab3();
+            Lab3.Problem3_2();
+        }
+        static void Main3_1()
+        {
+            var Lab3 = new Lab3();
+            Lab3.Problem3_1();
+        }
+        static void Main8()
+        {
             var Lab2 = new Lab2();
             Lab2.Problem8();
         }
@@ -29,10 +54,10 @@ namespace bootcamp
             var Lab2 = new Lab2();
             Lab2.Problem4();
         }
-        static void Main3_1()
+        static void Main3()
         {
             var Lab2 = new Lab2();
-            Lab2.Problem3_1();
+            Lab2.Problem3();
         }
         static void Main2()
         {
