@@ -6,12 +6,61 @@ namespace bootcamp.Solutions
     {
         public void Problem10()
         {
-            
+            int a = 0;
+            int b = 1;
+            int c = a + b;
+
+            System.Console.Write($"{a} {b} {c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
+
+            a = b;
+            b = c;
+            c = a + b;
+
+            System.Console.Write($"{c} ");
         }
         public void Problem9()
         {
-            int fib1=0, fib2=1, fib3=fib2+fib1;
-            System.Console.WriteLine();
+            System.Console.WriteLine($"1!={1}");
+            System.Console.WriteLine($"2!={1 * 2}");
+            System.Console.WriteLine($"3!={1 * 2 * 3}");
+            System.Console.WriteLine($"4!={1 * 2 * 3 * 4}");
+            System.Console.WriteLine($"5!={1 * 2 * 3 * 4 * 5}");
         }
         public void Problem8()
         {

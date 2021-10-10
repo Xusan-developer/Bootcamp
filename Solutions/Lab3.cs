@@ -4,13 +4,6 @@ namespace bootcamp.Solutions
 {
     public class Lab3
     {
-        public void Problem4()
-        {
-            string str = Console.ReadLine();
-            int son = int.Parse(str);
-
-            Console.WriteLine(son/10000 + "!" + son / 1000 % 10 + "!" + son / 100 % 10 + "!" + son / 10 % 10 + "!" + son % 10);
-        }
         public void Problem3_5()
         {
             Console.Write("Enter upper case: ");
