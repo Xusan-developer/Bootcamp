@@ -7,6 +7,41 @@ namespace bootcamp
     {
         static void Main()
         {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_7();
+        }
+        static void Main6_6()
+        {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_6();
+        }
+        static void Main6_5()
+        {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_5();
+        }
+        static void Main6_4()
+        {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_4();
+        }
+        static void Main6_3()
+        {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_3();
+        }
+        static void Main6_2()
+        {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_2();
+        }
+        static void Main6_1()
+        {
+            var Lab6 = new Lab6();
+            Lab6.Problem6_1();
+        }
+        static void Main5_12()
+        {
            double ProblemNum = double.Parse(Console.ReadLine());
             
             switch(ProblemNum)
@@ -47,7 +82,6 @@ namespace bootcamp
                 case 59:Main5_9();break;
                 case 510:Main5_10();break;
                 case 511:Main5_11();break;
-               
             }
         }
         static void Main5_11()
